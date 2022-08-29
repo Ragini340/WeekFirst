@@ -66,6 +66,7 @@
     <Compile Include="RDAccount.cs" />
     <Compile Include="SBAccount.cs" />
     <Compile Include="SerializationComponent.cs" />
+    <Compile Include="Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
