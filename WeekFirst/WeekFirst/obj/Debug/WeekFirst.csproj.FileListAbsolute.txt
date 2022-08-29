@@ -1,0 +1,7 @@
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\bin\Debug\WeekFirst.exe.config
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\bin\Debug\WeekFirst.exe
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\bin\Debug\WeekFirst.pdb
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\obj\Debug\WeekFirst.csproj.AssemblyReference.cache
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\obj\Debug\WeekFirst.csproj.CoreCompileInputs.cache
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\obj\Debug\WeekFirst.exe
+C:\Users\RRagini\source\repos\WeekFirst\WeekFirst\obj\Debug\WeekFirst.pdb

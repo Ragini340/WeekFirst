@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <id>101</id>
+    <name>Ragini</name>
+    <address>Bangalore</address>
+    <salary>5000</salary>
+  </Employee>
+  <Employee>
+    <id>111</id>
+    <name>Rita</name>
+    <address>Channai</address>
+    <salary>4000</salary>
+  </Employee>
+</ArrayOfEmployee>
