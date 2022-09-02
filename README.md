@@ -1,1 +1,1 @@
-# FAI WeekFirst Assignment List
+# FAI Assignment List
