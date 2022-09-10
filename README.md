@@ -1,1 +1,1 @@
-# FAI Assignment List (C#, HTML, CSS, and JAVASCRIPT)
+# FAI Assignment List (C#, HTML, CSS, JAVASCRIPT, SQL)
