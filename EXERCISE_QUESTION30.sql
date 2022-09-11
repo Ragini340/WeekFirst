@@ -1,0 +1,2 @@
+SELECT SUM(SALARY) AS TotalPayable_Salaries
+FROM EMPLOYEES;
