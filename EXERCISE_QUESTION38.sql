@@ -1,0 +1,2 @@
+SELECT TRIM(FIRSTNAME) As WhiteSpaces_Removed_FromBothSides
+FROM EMPLOYEES;
