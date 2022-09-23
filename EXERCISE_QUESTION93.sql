@@ -1,0 +1,3 @@
+SELECT e.EMPLOYEE_ID 'Employee Id', e.LASTNAME 'Employee', 
+m.EMPLOYEE_ID 'Manager_Id', m.LASTNAME 'Manager' FROM EMPLOYEES e 
+join EMPLOYEES m ON (e.MANAGER_ID = m.EMPLOYEE_ID);
